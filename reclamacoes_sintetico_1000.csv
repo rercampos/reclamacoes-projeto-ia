@@ -1,0 +1,1001 @@
+id,categoria,status,nota_consumidor,tempo_resposta_dias
+1,Atendimento,Em análise,4,23
+2,Entrega,Resolvida,5,7
+3,Produto,Aberta,5,4
+4,Atendimento,Aberta,1,29
+5,Atendimento,Aberta,2,14
+6,Entrega,Aberta,5,3
+7,Produto,Aberta,5,24
+8,Produto,Aberta,3,5
+9,Atendimento,Aberta,2,16
+10,Serviço,Em análise,3,26
+11,Atendimento,Resolvida,2,23
+12,Atendimento,Aberta,3,20
+13,Atendimento,Em análise,5,4
+14,Atendimento,Em análise,5,24
+15,Entrega,Resolvida,1,30
+16,Produto,Aberta,3,24
+17,Entrega,Resolvida,4,2
+18,Entrega,Aberta,1,30
+19,Entrega,Em análise,3,18
+20,Atendimento,Em análise,3,19
+21,Serviço,Em análise,1,28
+22,Produto,Em análise,5,28
+23,Serviço,Resolvida,3,19
+24,Entrega,Aberta,5,17
+25,Entrega,Aberta,1,14
+26,Serviço,Resolvida,5,19
+27,Serviço,Aberta,2,22
+28,Serviço,Em análise,4,24
+29,Entrega,Aberta,3,13
+30,Entrega,Em análise,4,12
+31,Produto,Resolvida,5,30
+32,Produto,Aberta,3,26
+33,Entrega,Resolvida,5,6
+34,Serviço,Aberta,2,21
+35,Serviço,Em análise,1,4
+36,Produto,Resolvida,3,19
+37,Entrega,Aberta,2,16
+38,Produto,Em análise,2,13
+39,Produto,Resolvida,3,4
+40,Atendimento,Resolvida,5,30
+41,Atendimento,Aberta,2,23
+42,Atendimento,Aberta,4,17
+43,Serviço,Aberta,2,23
+44,Entrega,Em análise,5,1
+45,Entrega,Aberta,5,18
+46,Entrega,Resolvida,4,20
+47,Entrega,Resolvida,2,17
+48,Atendimento,Aberta,5,27
+49,Serviço,Aberta,3,28
+50,Serviço,Resolvida,1,27
+51,Atendimento,Em análise,1,15
+52,Serviço,Aberta,1,11
+53,Atendimento,Aberta,2,25
+54,Entrega,Resolvida,4,28
+55,Atendimento,Aberta,5,22
+56,Entrega,Em análise,3,13
+57,Entrega,Resolvida,3,1
+58,Produto,Aberta,2,17
+59,Atendimento,Resolvida,1,6
+60,Produto,Aberta,2,4
+61,Atendimento,Aberta,4,20
+62,Atendimento,Aberta,4,16
+63,Produto,Em análise,5,15
+64,Produto,Em análise,5,27
+65,Atendimento,Resolvida,4,15
+66,Serviço,Aberta,4,6
+67,Entrega,Aberta,4,15
+68,Produto,Em análise,2,14
+69,Entrega,Aberta,4,28
+70,Serviço,Em análise,3,11
+71,Serviço,Aberta,1,7
+72,Serviço,Resolvida,4,9
+73,Produto,Aberta,1,26
+74,Serviço,Aberta,2,16
+75,Produto,Em análise,1,5
+76,Serviço,Aberta,2,25
+77,Entrega,Aberta,3,20
+78,Entrega,Em análise,2,29
+79,Atendimento,Resolvida,2,10
+80,Entrega,Resolvida,5,18
+81,Atendimento,Em análise,4,3
+82,Entrega,Em análise,4,13
+83,Produto,Em análise,3,11
+84,Entrega,Em análise,3,17
+85,Atendimento,Em análise,4,30
+86,Atendimento,Resolvida,5,30
+87,Serviço,Resolvida,4,22
+88,Produto,Em análise,5,13
+89,Entrega,Aberta,3,6
+90,Serviço,Em análise,1,17
+91,Entrega,Aberta,3,27
+92,Entrega,Em análise,3,13
+93,Serviço,Em análise,2,19
+94,Serviço,Resolvida,2,21
+95,Serviço,Aberta,2,19
+96,Serviço,Aberta,2,10
+97,Serviço,Resolvida,5,3
+98,Entrega,Resolvida,4,14
+99,Serviço,Resolvida,1,26
+100,Produto,Resolvida,3,19
+101,Atendimento,Aberta,5,5
+102,Serviço,Aberta,1,29
+103,Serviço,Em análise,5,5
+104,Entrega,Em análise,5,20
+105,Serviço,Resolvida,3,17
+106,Serviço,Resolvida,4,21
+107,Serviço,Resolvida,2,10
+108,Entrega,Em análise,4,5
+109,Serviço,Em análise,3,4
+110,Atendimento,Em análise,3,6
+111,Entrega,Em análise,3,26
+112,Atendimento,Em análise,1,4
+113,Entrega,Em análise,4,30
+114,Serviço,Em análise,4,7
+115,Atendimento,Resolvida,5,7
+116,Entrega,Resolvida,5,18
+117,Produto,Resolvida,5,3
+118,Serviço,Resolvida,3,1
+119,Entrega,Em análise,4,24
+120,Produto,Aberta,3,25
+121,Entrega,Em análise,1,4
+122,Produto,Aberta,5,6
+123,Serviço,Resolvida,3,9
+124,Atendimento,Em análise,3,22
+125,Produto,Resolvida,1,14
+126,Entrega,Em análise,2,28
+127,Serviço,Resolvida,4,12
+128,Produto,Aberta,2,28
+129,Entrega,Aberta,5,25
+130,Entrega,Aberta,3,20
+131,Entrega,Em análise,1,24
+132,Produto,Aberta,1,25
+133,Produto,Em análise,4,4
+134,Produto,Aberta,2,21
+135,Atendimento,Aberta,4,30
+136,Produto,Em análise,3,24
+137,Produto,Em análise,4,12
+138,Produto,Aberta,1,10
+139,Atendimento,Em análise,1,30
+140,Produto,Aberta,5,22
+141,Entrega,Em análise,5,28
+142,Produto,Resolvida,3,7
+143,Entrega,Resolvida,2,3
+144,Entrega,Resolvida,4,23
+145,Entrega,Resolvida,3,28
+146,Atendimento,Resolvida,5,14
+147,Atendimento,Aberta,4,24
+148,Atendimento,Resolvida,5,10
+149,Produto,Resolvida,4,16
+150,Entrega,Resolvida,2,16
+151,Atendimento,Resolvida,3,22
+152,Atendimento,Em análise,4,10
+153,Produto,Aberta,1,25
+154,Atendimento,Resolvida,1,13
+155,Produto,Resolvida,4,6
+156,Serviço,Resolvida,4,12
+157,Atendimento,Aberta,4,9
+158,Serviço,Em análise,1,13
+159,Produto,Aberta,1,4
+160,Entrega,Em análise,4,24
+161,Atendimento,Resolvida,5,11
+162,Produto,Resolvida,5,20
+163,Entrega,Aberta,2,18
+164,Entrega,Aberta,3,26
+165,Serviço,Em análise,5,11
+166,Produto,Em análise,1,25
+167,Entrega,Aberta,5,21
+168,Atendimento,Em análise,2,4
+169,Atendimento,Aberta,2,18
+170,Serviço,Em análise,3,1
+171,Entrega,Aberta,5,27
+172,Produto,Aberta,1,7
+173,Atendimento,Aberta,1,6
+174,Entrega,Em análise,4,15
+175,Entrega,Em análise,1,18
+176,Serviço,Em análise,3,24
+177,Atendimento,Aberta,3,11
+178,Atendimento,Em análise,1,20
+179,Produto,Em análise,1,24
+180,Atendimento,Aberta,4,15
+181,Produto,Resolvida,1,16
+182,Atendimento,Aberta,4,7
+183,Serviço,Em análise,4,21
+184,Atendimento,Aberta,1,10
+185,Produto,Resolvida,2,26
+186,Produto,Aberta,2,12
+187,Serviço,Em análise,4,24
+188,Atendimento,Resolvida,1,14
+189,Atendimento,Em análise,2,25
+190,Serviço,Resolvida,1,5
+191,Atendimento,Resolvida,1,26
+192,Atendimento,Aberta,1,21
+193,Produto,Aberta,5,18
+194,Atendimento,Em análise,1,5
+195,Atendimento,Aberta,5,3
+196,Serviço,Aberta,4,23
+197,Serviço,Resolvida,2,26
+198,Entrega,Aberta,2,5
+199,Produto,Resolvida,2,24
+200,Atendimento,Resolvida,2,17
+201,Atendimento,Resolvida,2,19
+202,Entrega,Em análise,2,19
+203,Atendimento,Em análise,2,25
+204,Produto,Em análise,4,21
+205,Entrega,Resolvida,1,12
+206,Produto,Em análise,3,25
+207,Entrega,Em análise,5,29
+208,Entrega,Aberta,3,9
+209,Serviço,Em análise,3,1
+210,Produto,Em análise,1,18
+211,Atendimento,Resolvida,1,21
+212,Atendimento,Resolvida,1,4
+213,Produto,Resolvida,2,10
+214,Atendimento,Resolvida,4,25
+215,Atendimento,Resolvida,2,7
+216,Produto,Resolvida,4,22
+217,Entrega,Em análise,4,23
+218,Produto,Resolvida,3,1
+219,Entrega,Resolvida,3,17
+220,Atendimento,Aberta,4,24
+221,Atendimento,Em análise,4,29
+222,Atendimento,Em análise,2,29
+223,Serviço,Em análise,2,2
+224,Entrega,Resolvida,3,28
+225,Serviço,Resolvida,1,26
+226,Serviço,Resolvida,4,11
+227,Produto,Aberta,2,9
+228,Serviço,Resolvida,3,7
+229,Produto,Aberta,2,22
+230,Produto,Em análise,4,17
+231,Serviço,Resolvida,4,17
+232,Entrega,Aberta,5,2
+233,Entrega,Aberta,1,6
+234,Entrega,Resolvida,5,14
+235,Entrega,Em análise,3,6
+236,Entrega,Em análise,2,2
+237,Serviço,Em análise,3,1
+238,Serviço,Aberta,4,10
+239,Atendimento,Aberta,5,21
+240,Entrega,Aberta,5,5
+241,Serviço,Aberta,5,2
+242,Atendimento,Em análise,3,22
+243,Entrega,Resolvida,4,16
+244,Produto,Aberta,2,25
+245,Atendimento,Aberta,2,2
+246,Serviço,Em análise,3,10
+247,Produto,Resolvida,5,2
+248,Produto,Resolvida,1,16
+249,Produto,Em análise,3,16
+250,Atendimento,Em análise,3,19
+251,Serviço,Resolvida,4,29
+252,Produto,Aberta,2,7
+253,Entrega,Resolvida,3,22
+254,Produto,Em análise,3,12
+255,Produto,Aberta,5,24
+256,Atendimento,Aberta,5,15
+257,Atendimento,Em análise,1,8
+258,Serviço,Em análise,4,6
+259,Entrega,Em análise,1,28
+260,Atendimento,Resolvida,5,27
+261,Produto,Resolvida,2,10
+262,Serviço,Aberta,5,3
+263,Produto,Em análise,4,19
+264,Produto,Aberta,5,17
+265,Atendimento,Aberta,4,7
+266,Serviço,Aberta,4,21
+267,Entrega,Aberta,4,20
+268,Entrega,Em análise,4,26
+269,Atendimento,Aberta,4,4
+270,Atendimento,Em análise,2,14
+271,Serviço,Em análise,1,20
+272,Entrega,Resolvida,3,22
+273,Entrega,Em análise,1,15
+274,Entrega,Resolvida,4,24
+275,Produto,Em análise,2,8
+276,Entrega,Em análise,5,21
+277,Produto,Em análise,2,15
+278,Serviço,Resolvida,4,22
+279,Produto,Resolvida,2,20
+280,Serviço,Aberta,2,28
+281,Entrega,Resolvida,4,14
+282,Entrega,Resolvida,2,27
+283,Serviço,Resolvida,3,29
+284,Atendimento,Resolvida,3,9
+285,Serviço,Aberta,2,8
+286,Atendimento,Resolvida,5,26
+287,Produto,Em análise,4,28
+288,Produto,Em análise,3,26
+289,Produto,Resolvida,5,17
+290,Entrega,Resolvida,2,2
+291,Produto,Em análise,5,25
+292,Atendimento,Em análise,1,24
+293,Produto,Aberta,3,30
+294,Serviço,Em análise,2,3
+295,Serviço,Em análise,4,8
+296,Entrega,Resolvida,2,12
+297,Serviço,Em análise,4,1
+298,Atendimento,Aberta,2,10
+299,Produto,Em análise,5,20
+300,Entrega,Resolvida,5,3
+301,Produto,Resolvida,5,6
+302,Produto,Em análise,1,7
+303,Atendimento,Resolvida,4,20
+304,Serviço,Aberta,5,23
+305,Serviço,Aberta,1,25
+306,Produto,Em análise,4,27
+307,Entrega,Em análise,2,18
+308,Serviço,Em análise,1,11
+309,Entrega,Resolvida,3,19
+310,Serviço,Aberta,1,5
+311,Entrega,Aberta,1,19
+312,Atendimento,Resolvida,4,11
+313,Entrega,Aberta,2,24
+314,Atendimento,Em análise,3,12
+315,Atendimento,Em análise,5,10
+316,Entrega,Em análise,5,8
+317,Atendimento,Aberta,1,24
+318,Produto,Em análise,4,28
+319,Atendimento,Resolvida,4,28
+320,Serviço,Resolvida,5,9
+321,Entrega,Aberta,3,4
+322,Produto,Resolvida,2,5
+323,Entrega,Resolvida,3,21
+324,Serviço,Aberta,2,8
+325,Serviço,Em análise,5,23
+326,Serviço,Em análise,2,9
+327,Atendimento,Em análise,4,15
+328,Atendimento,Aberta,1,15
+329,Entrega,Resolvida,1,16
+330,Entrega,Em análise,5,14
+331,Produto,Em análise,4,8
+332,Produto,Aberta,3,18
+333,Entrega,Em análise,4,10
+334,Atendimento,Aberta,1,28
+335,Serviço,Resolvida,1,20
+336,Entrega,Aberta,4,6
+337,Produto,Aberta,4,12
+338,Atendimento,Aberta,1,2
+339,Entrega,Aberta,3,7
+340,Entrega,Resolvida,5,16
+341,Atendimento,Resolvida,5,3
+342,Entrega,Em análise,4,13
+343,Atendimento,Resolvida,5,3
+344,Serviço,Resolvida,1,27
+345,Atendimento,Em análise,1,18
+346,Atendimento,Resolvida,4,11
+347,Atendimento,Aberta,4,8
+348,Entrega,Aberta,4,6
+349,Entrega,Em análise,3,1
+350,Atendimento,Em análise,5,28
+351,Entrega,Em análise,4,1
+352,Produto,Aberta,2,23
+353,Produto,Resolvida,2,8
+354,Entrega,Aberta,1,5
+355,Entrega,Em análise,5,28
+356,Atendimento,Resolvida,4,16
+357,Serviço,Resolvida,2,11
+358,Entrega,Aberta,5,5
+359,Produto,Em análise,1,4
+360,Atendimento,Aberta,3,30
+361,Entrega,Resolvida,5,6
+362,Produto,Aberta,5,14
+363,Produto,Aberta,3,22
+364,Serviço,Em análise,5,19
+365,Atendimento,Em análise,1,9
+366,Atendimento,Resolvida,1,12
+367,Serviço,Aberta,3,11
+368,Serviço,Aberta,4,14
+369,Atendimento,Aberta,2,23
+370,Atendimento,Resolvida,4,16
+371,Entrega,Resolvida,5,1
+372,Entrega,Em análise,2,13
+373,Serviço,Em análise,3,23
+374,Entrega,Em análise,3,21
+375,Produto,Aberta,2,21
+376,Entrega,Aberta,1,30
+377,Entrega,Em análise,2,13
+378,Produto,Aberta,5,2
+379,Serviço,Em análise,1,4
+380,Produto,Resolvida,3,28
+381,Entrega,Em análise,2,6
+382,Serviço,Resolvida,4,26
+383,Entrega,Aberta,4,27
+384,Produto,Em análise,5,23
+385,Produto,Aberta,4,27
+386,Entrega,Resolvida,2,5
+387,Atendimento,Resolvida,2,25
+388,Atendimento,Resolvida,4,3
+389,Produto,Aberta,2,1
+390,Produto,Aberta,5,4
+391,Atendimento,Aberta,1,25
+392,Atendimento,Aberta,5,20
+393,Entrega,Resolvida,5,2
+394,Entrega,Resolvida,2,26
+395,Atendimento,Em análise,1,30
+396,Entrega,Em análise,2,30
+397,Entrega,Aberta,3,5
+398,Serviço,Resolvida,2,3
+399,Entrega,Resolvida,2,29
+400,Produto,Resolvida,2,28
+401,Entrega,Em análise,1,29
+402,Entrega,Em análise,2,9
+403,Atendimento,Resolvida,1,20
+404,Produto,Resolvida,4,6
+405,Entrega,Resolvida,3,18
+406,Entrega,Em análise,1,6
+407,Serviço,Resolvida,4,19
+408,Entrega,Resolvida,1,28
+409,Entrega,Aberta,1,12
+410,Serviço,Aberta,3,25
+411,Atendimento,Em análise,5,11
+412,Entrega,Resolvida,5,2
+413,Serviço,Resolvida,1,15
+414,Produto,Aberta,2,12
+415,Atendimento,Em análise,4,12
+416,Produto,Aberta,2,9
+417,Produto,Aberta,2,21
+418,Serviço,Aberta,1,24
+419,Entrega,Aberta,1,2
+420,Serviço,Resolvida,1,22
+421,Serviço,Resolvida,1,3
+422,Serviço,Aberta,5,12
+423,Serviço,Em análise,1,28
+424,Atendimento,Em análise,5,30
+425,Entrega,Em análise,5,26
+426,Produto,Em análise,1,16
+427,Produto,Aberta,3,21
+428,Entrega,Resolvida,4,28
+429,Produto,Em análise,2,24
+430,Entrega,Aberta,5,26
+431,Produto,Em análise,4,30
+432,Serviço,Em análise,3,1
+433,Produto,Aberta,2,21
+434,Entrega,Resolvida,2,3
+435,Entrega,Resolvida,5,20
+436,Entrega,Aberta,1,2
+437,Entrega,Resolvida,3,9
+438,Entrega,Aberta,5,19
+439,Atendimento,Aberta,3,15
+440,Atendimento,Aberta,1,18
+441,Produto,Resolvida,1,26
+442,Entrega,Aberta,5,11
+443,Produto,Em análise,1,25
+444,Entrega,Resolvida,4,23
+445,Entrega,Resolvida,2,16
+446,Atendimento,Resolvida,5,22
+447,Atendimento,Resolvida,3,17
+448,Serviço,Em análise,4,5
+449,Atendimento,Resolvida,5,12
+450,Serviço,Resolvida,1,11
+451,Serviço,Aberta,1,30
+452,Serviço,Resolvida,1,15
+453,Serviço,Em análise,1,27
+454,Serviço,Em análise,3,3
+455,Produto,Em análise,4,1
+456,Atendimento,Em análise,2,20
+457,Serviço,Resolvida,3,29
+458,Entrega,Resolvida,3,16
+459,Atendimento,Em análise,2,2
+460,Atendimento,Em análise,2,2
+461,Serviço,Resolvida,1,3
+462,Produto,Em análise,3,8
+463,Serviço,Aberta,5,24
+464,Produto,Em análise,2,28
+465,Entrega,Em análise,2,15
+466,Atendimento,Aberta,4,7
+467,Entrega,Aberta,5,6
+468,Produto,Resolvida,5,9
+469,Produto,Resolvida,2,20
+470,Entrega,Aberta,1,28
+471,Produto,Aberta,4,1
+472,Entrega,Resolvida,5,8
+473,Atendimento,Em análise,2,23
+474,Entrega,Aberta,5,23
+475,Atendimento,Resolvida,4,3
+476,Entrega,Em análise,4,4
+477,Produto,Aberta,3,26
+478,Entrega,Em análise,2,25
+479,Produto,Resolvida,4,15
+480,Entrega,Aberta,3,6
+481,Entrega,Em análise,3,15
+482,Serviço,Aberta,5,21
+483,Produto,Em análise,5,3
+484,Serviço,Resolvida,3,25
+485,Produto,Resolvida,5,21
+486,Serviço,Aberta,4,21
+487,Atendimento,Em análise,1,14
+488,Entrega,Aberta,4,20
+489,Produto,Aberta,3,14
+490,Produto,Em análise,3,4
+491,Entrega,Em análise,4,12
+492,Produto,Em análise,5,17
+493,Produto,Resolvida,5,7
+494,Serviço,Aberta,3,9
+495,Produto,Aberta,2,3
+496,Atendimento,Resolvida,5,28
+497,Atendimento,Em análise,4,13
+498,Entrega,Resolvida,5,15
+499,Produto,Resolvida,4,18
+500,Entrega,Resolvida,3,19
+501,Atendimento,Aberta,5,1
+502,Produto,Resolvida,4,6
+503,Produto,Aberta,3,27
+504,Entrega,Aberta,2,27
+505,Atendimento,Aberta,4,23
+506,Produto,Em análise,2,27
+507,Entrega,Aberta,2,27
+508,Atendimento,Aberta,1,2
+509,Entrega,Em análise,5,24
+510,Serviço,Aberta,4,14
+511,Produto,Resolvida,2,6
+512,Serviço,Resolvida,1,14
+513,Atendimento,Aberta,3,4
+514,Serviço,Em análise,4,21
+515,Serviço,Resolvida,2,8
+516,Atendimento,Em análise,5,30
+517,Entrega,Em análise,1,3
+518,Serviço,Resolvida,2,19
+519,Entrega,Em análise,5,30
+520,Serviço,Resolvida,2,14
+521,Entrega,Em análise,4,27
+522,Atendimento,Resolvida,4,20
+523,Serviço,Aberta,4,17
+524,Atendimento,Resolvida,1,25
+525,Serviço,Resolvida,4,8
+526,Atendimento,Resolvida,5,24
+527,Atendimento,Resolvida,2,14
+528,Serviço,Em análise,3,26
+529,Serviço,Aberta,5,6
+530,Serviço,Resolvida,5,23
+531,Produto,Em análise,4,22
+532,Entrega,Aberta,1,16
+533,Produto,Aberta,2,25
+534,Produto,Aberta,1,19
+535,Atendimento,Aberta,2,14
+536,Serviço,Resolvida,2,19
+537,Entrega,Resolvida,1,3
+538,Atendimento,Em análise,5,10
+539,Produto,Em análise,2,19
+540,Serviço,Em análise,1,9
+541,Atendimento,Aberta,2,28
+542,Serviço,Aberta,3,20
+543,Atendimento,Resolvida,5,13
+544,Serviço,Aberta,4,7
+545,Produto,Aberta,2,14
+546,Entrega,Aberta,3,9
+547,Produto,Em análise,4,27
+548,Entrega,Em análise,4,28
+549,Serviço,Resolvida,2,23
+550,Atendimento,Aberta,1,25
+551,Produto,Aberta,2,28
+552,Entrega,Resolvida,3,19
+553,Produto,Aberta,4,15
+554,Entrega,Aberta,2,20
+555,Produto,Em análise,1,14
+556,Entrega,Resolvida,2,24
+557,Entrega,Resolvida,5,6
+558,Serviço,Resolvida,1,21
+559,Entrega,Resolvida,3,29
+560,Serviço,Em análise,4,4
+561,Entrega,Em análise,2,8
+562,Atendimento,Aberta,1,17
+563,Atendimento,Aberta,5,30
+564,Atendimento,Aberta,1,9
+565,Entrega,Aberta,5,1
+566,Serviço,Em análise,3,24
+567,Serviço,Resolvida,4,20
+568,Entrega,Em análise,3,25
+569,Atendimento,Aberta,2,14
+570,Atendimento,Em análise,1,11
+571,Serviço,Resolvida,5,21
+572,Atendimento,Resolvida,5,3
+573,Produto,Em análise,1,9
+574,Serviço,Em análise,1,27
+575,Atendimento,Em análise,2,14
+576,Serviço,Aberta,3,30
+577,Produto,Em análise,5,9
+578,Serviço,Em análise,2,4
+579,Serviço,Em análise,3,27
+580,Serviço,Resolvida,2,4
+581,Serviço,Resolvida,5,28
+582,Produto,Aberta,1,8
+583,Entrega,Aberta,1,2
+584,Serviço,Resolvida,3,9
+585,Serviço,Resolvida,4,29
+586,Atendimento,Resolvida,3,14
+587,Serviço,Em análise,4,22
+588,Atendimento,Em análise,2,9
+589,Entrega,Resolvida,2,24
+590,Produto,Em análise,5,23
+591,Produto,Em análise,4,16
+592,Entrega,Aberta,5,29
+593,Produto,Resolvida,1,30
+594,Entrega,Resolvida,4,17
+595,Entrega,Em análise,3,16
+596,Entrega,Resolvida,1,30
+597,Produto,Aberta,1,12
+598,Atendimento,Aberta,3,3
+599,Entrega,Aberta,1,11
+600,Serviço,Resolvida,4,14
+601,Produto,Resolvida,5,18
+602,Entrega,Resolvida,1,21
+603,Entrega,Resolvida,4,21
+604,Serviço,Resolvida,2,5
+605,Atendimento,Aberta,4,16
+606,Atendimento,Em análise,5,20
+607,Atendimento,Aberta,4,5
+608,Entrega,Resolvida,3,3
+609,Entrega,Aberta,5,12
+610,Entrega,Resolvida,2,1
+611,Produto,Resolvida,3,21
+612,Serviço,Aberta,4,29
+613,Entrega,Resolvida,5,9
+614,Serviço,Em análise,2,29
+615,Serviço,Resolvida,3,9
+616,Atendimento,Em análise,2,4
+617,Produto,Em análise,4,3
+618,Entrega,Resolvida,2,17
+619,Atendimento,Aberta,1,2
+620,Atendimento,Em análise,3,24
+621,Entrega,Aberta,2,1
+622,Serviço,Em análise,4,8
+623,Atendimento,Resolvida,4,13
+624,Serviço,Resolvida,2,23
+625,Produto,Em análise,4,15
+626,Serviço,Resolvida,5,8
+627,Produto,Em análise,5,12
+628,Serviço,Resolvida,5,22
+629,Atendimento,Aberta,1,12
+630,Atendimento,Resolvida,2,14
+631,Produto,Aberta,1,15
+632,Entrega,Resolvida,4,15
+633,Produto,Aberta,1,9
+634,Produto,Resolvida,4,19
+635,Serviço,Aberta,4,26
+636,Serviço,Em análise,3,20
+637,Produto,Em análise,5,29
+638,Atendimento,Aberta,4,22
+639,Serviço,Resolvida,3,8
+640,Entrega,Aberta,5,21
+641,Serviço,Resolvida,4,19
+642,Serviço,Em análise,4,6
+643,Entrega,Resolvida,1,20
+644,Produto,Em análise,1,25
+645,Entrega,Resolvida,5,29
+646,Produto,Resolvida,4,19
+647,Produto,Resolvida,2,4
+648,Produto,Aberta,1,23
+649,Entrega,Aberta,5,7
+650,Produto,Em análise,4,28
+651,Atendimento,Em análise,4,28
+652,Entrega,Aberta,2,4
+653,Atendimento,Em análise,5,22
+654,Produto,Aberta,4,12
+655,Serviço,Resolvida,1,13
+656,Produto,Em análise,2,3
+657,Atendimento,Em análise,5,22
+658,Atendimento,Aberta,2,12
+659,Entrega,Em análise,1,2
+660,Serviço,Em análise,5,24
+661,Entrega,Resolvida,2,2
+662,Atendimento,Em análise,3,27
+663,Produto,Resolvida,1,23
+664,Serviço,Aberta,1,9
+665,Produto,Em análise,1,1
+666,Produto,Resolvida,3,8
+667,Serviço,Aberta,3,23
+668,Entrega,Em análise,4,6
+669,Produto,Aberta,2,6
+670,Atendimento,Em análise,4,22
+671,Produto,Aberta,2,25
+672,Serviço,Aberta,3,18
+673,Serviço,Resolvida,3,17
+674,Serviço,Aberta,4,29
+675,Entrega,Em análise,5,12
+676,Produto,Em análise,4,6
+677,Entrega,Resolvida,2,26
+678,Entrega,Em análise,4,27
+679,Serviço,Em análise,1,8
+680,Serviço,Em análise,2,19
+681,Entrega,Aberta,2,28
+682,Produto,Aberta,5,10
+683,Atendimento,Em análise,3,1
+684,Entrega,Resolvida,2,25
+685,Produto,Aberta,3,29
+686,Serviço,Resolvida,4,13
+687,Serviço,Em análise,1,17
+688,Produto,Em análise,5,3
+689,Atendimento,Aberta,3,8
+690,Serviço,Em análise,2,14
+691,Serviço,Aberta,3,3
+692,Serviço,Em análise,2,16
+693,Produto,Em análise,3,13
+694,Entrega,Aberta,2,20
+695,Serviço,Aberta,4,24
+696,Entrega,Aberta,2,17
+697,Atendimento,Em análise,2,13
+698,Serviço,Em análise,1,29
+699,Serviço,Resolvida,2,6
+700,Atendimento,Aberta,1,17
+701,Serviço,Em análise,5,14
+702,Entrega,Em análise,1,17
+703,Produto,Aberta,4,30
+704,Entrega,Resolvida,1,8
+705,Produto,Aberta,5,11
+706,Produto,Resolvida,4,20
+707,Entrega,Em análise,3,28
+708,Entrega,Resolvida,3,1
+709,Entrega,Em análise,1,26
+710,Entrega,Aberta,1,7
+711,Atendimento,Aberta,5,21
+712,Serviço,Aberta,5,21
+713,Produto,Resolvida,2,17
+714,Entrega,Em análise,5,30
+715,Entrega,Aberta,2,10
+716,Entrega,Aberta,4,11
+717,Atendimento,Em análise,1,22
+718,Entrega,Aberta,4,30
+719,Entrega,Em análise,5,9
+720,Entrega,Em análise,4,9
+721,Serviço,Em análise,4,24
+722,Atendimento,Em análise,4,5
+723,Entrega,Em análise,5,17
+724,Produto,Resolvida,4,9
+725,Produto,Aberta,2,17
+726,Produto,Resolvida,5,24
+727,Atendimento,Aberta,4,21
+728,Atendimento,Resolvida,5,19
+729,Produto,Em análise,3,27
+730,Entrega,Aberta,2,7
+731,Atendimento,Aberta,4,23
+732,Produto,Resolvida,3,9
+733,Produto,Resolvida,3,7
+734,Entrega,Aberta,5,13
+735,Serviço,Resolvida,3,11
+736,Atendimento,Resolvida,2,14
+737,Entrega,Resolvida,2,19
+738,Produto,Em análise,1,11
+739,Produto,Em análise,2,13
+740,Entrega,Resolvida,3,14
+741,Atendimento,Resolvida,2,13
+742,Serviço,Em análise,5,1
+743,Serviço,Em análise,1,8
+744,Produto,Aberta,3,12
+745,Atendimento,Aberta,1,19
+746,Serviço,Em análise,3,12
+747,Atendimento,Resolvida,5,8
+748,Atendimento,Resolvida,1,8
+749,Produto,Resolvida,4,29
+750,Serviço,Resolvida,3,21
+751,Entrega,Aberta,4,13
+752,Produto,Em análise,1,12
+753,Serviço,Resolvida,4,29
+754,Serviço,Aberta,4,16
+755,Serviço,Resolvida,1,1
+756,Serviço,Em análise,5,13
+757,Serviço,Aberta,4,26
+758,Atendimento,Em análise,4,7
+759,Produto,Em análise,5,28
+760,Atendimento,Aberta,4,26
+761,Entrega,Aberta,4,5
+762,Serviço,Aberta,4,8
+763,Produto,Aberta,2,25
+764,Serviço,Aberta,5,27
+765,Produto,Aberta,4,14
+766,Atendimento,Aberta,5,23
+767,Produto,Resolvida,3,30
+768,Entrega,Em análise,3,13
+769,Entrega,Aberta,4,15
+770,Produto,Resolvida,5,23
+771,Produto,Resolvida,5,17
+772,Produto,Resolvida,5,15
+773,Produto,Em análise,2,20
+774,Entrega,Aberta,3,18
+775,Serviço,Resolvida,5,18
+776,Produto,Em análise,5,2
+777,Produto,Em análise,2,4
+778,Entrega,Em análise,2,30
+779,Entrega,Resolvida,5,1
+780,Atendimento,Aberta,1,4
+781,Produto,Resolvida,5,18
+782,Atendimento,Resolvida,5,5
+783,Entrega,Aberta,2,19
+784,Entrega,Aberta,2,15
+785,Serviço,Aberta,5,28
+786,Produto,Em análise,5,8
+787,Atendimento,Aberta,5,20
+788,Entrega,Resolvida,2,17
+789,Entrega,Aberta,5,1
+790,Atendimento,Resolvida,5,12
+791,Serviço,Em análise,4,26
+792,Entrega,Resolvida,1,19
+793,Produto,Resolvida,3,15
+794,Entrega,Aberta,1,9
+795,Produto,Aberta,4,7
+796,Atendimento,Resolvida,3,2
+797,Produto,Aberta,5,29
+798,Atendimento,Em análise,4,9
+799,Produto,Em análise,5,10
+800,Atendimento,Aberta,2,2
+801,Produto,Em análise,4,19
+802,Serviço,Aberta,2,11
+803,Produto,Resolvida,4,13
+804,Produto,Resolvida,4,10
+805,Serviço,Em análise,2,14
+806,Entrega,Aberta,3,18
+807,Entrega,Aberta,1,19
+808,Produto,Em análise,5,22
+809,Serviço,Resolvida,4,9
+810,Produto,Em análise,5,25
+811,Atendimento,Resolvida,2,7
+812,Atendimento,Aberta,5,28
+813,Produto,Resolvida,2,3
+814,Entrega,Em análise,5,20
+815,Entrega,Aberta,1,6
+816,Produto,Em análise,1,27
+817,Produto,Em análise,1,21
+818,Atendimento,Resolvida,1,2
+819,Entrega,Em análise,1,29
+820,Produto,Resolvida,1,6
+821,Atendimento,Aberta,2,3
+822,Entrega,Resolvida,4,16
+823,Serviço,Aberta,5,30
+824,Atendimento,Resolvida,1,8
+825,Entrega,Em análise,2,2
+826,Entrega,Resolvida,2,17
+827,Atendimento,Resolvida,2,9
+828,Serviço,Aberta,4,30
+829,Atendimento,Em análise,5,12
+830,Entrega,Resolvida,4,3
+831,Produto,Em análise,3,11
+832,Produto,Resolvida,2,1
+833,Atendimento,Resolvida,3,23
+834,Entrega,Em análise,1,13
+835,Produto,Resolvida,1,15
+836,Entrega,Em análise,4,26
+837,Atendimento,Resolvida,5,5
+838,Produto,Aberta,3,21
+839,Entrega,Em análise,5,30
+840,Produto,Resolvida,4,17
+841,Atendimento,Resolvida,1,25
+842,Entrega,Aberta,5,23
+843,Produto,Em análise,5,24
+844,Atendimento,Resolvida,1,25
+845,Produto,Aberta,3,6
+846,Produto,Resolvida,1,28
+847,Serviço,Em análise,5,21
+848,Serviço,Resolvida,3,22
+849,Atendimento,Resolvida,3,11
+850,Serviço,Resolvida,1,18
+851,Atendimento,Resolvida,5,4
+852,Serviço,Aberta,4,3
+853,Produto,Aberta,5,13
+854,Atendimento,Em análise,2,23
+855,Atendimento,Aberta,4,9
+856,Produto,Aberta,3,21
+857,Atendimento,Em análise,4,6
+858,Atendimento,Aberta,3,26
+859,Serviço,Aberta,3,30
+860,Atendimento,Em análise,4,28
+861,Entrega,Em análise,3,12
+862,Produto,Em análise,3,2
+863,Serviço,Resolvida,2,3
+864,Serviço,Resolvida,5,3
+865,Entrega,Em análise,5,28
+866,Produto,Em análise,2,12
+867,Produto,Em análise,4,15
+868,Serviço,Resolvida,1,9
+869,Atendimento,Resolvida,1,23
+870,Serviço,Aberta,1,8
+871,Produto,Aberta,2,11
+872,Entrega,Em análise,2,16
+873,Serviço,Resolvida,3,26
+874,Produto,Resolvida,1,27
+875,Serviço,Resolvida,4,25
+876,Atendimento,Em análise,4,22
+877,Serviço,Aberta,1,4
+878,Serviço,Em análise,1,28
+879,Produto,Aberta,1,1
+880,Produto,Aberta,2,24
+881,Produto,Em análise,2,7
+882,Serviço,Aberta,2,2
+883,Atendimento,Aberta,5,24
+884,Entrega,Resolvida,4,28
+885,Entrega,Aberta,4,5
+886,Produto,Em análise,3,7
+887,Produto,Em análise,2,4
+888,Serviço,Aberta,5,5
+889,Entrega,Resolvida,5,24
+890,Produto,Resolvida,4,1
+891,Atendimento,Aberta,2,1
+892,Atendimento,Aberta,3,15
+893,Produto,Em análise,2,20
+894,Produto,Aberta,1,19
+895,Entrega,Resolvida,2,29
+896,Entrega,Aberta,1,10
+897,Serviço,Em análise,1,28
+898,Entrega,Em análise,3,18
+899,Atendimento,Em análise,4,28
+900,Atendimento,Em análise,2,3
+901,Produto,Em análise,1,11
+902,Entrega,Aberta,2,15
+903,Serviço,Aberta,4,27
+904,Atendimento,Aberta,4,30
+905,Atendimento,Aberta,5,11
+906,Serviço,Em análise,4,17
+907,Serviço,Resolvida,3,17
+908,Atendimento,Aberta,1,6
+909,Atendimento,Resolvida,5,5
+910,Serviço,Aberta,3,8
+911,Atendimento,Aberta,2,2
+912,Produto,Resolvida,1,16
+913,Produto,Em análise,4,20
+914,Serviço,Aberta,1,24
+915,Entrega,Aberta,2,12
+916,Serviço,Aberta,5,6
+917,Serviço,Resolvida,5,1
+918,Entrega,Em análise,5,4
+919,Entrega,Resolvida,4,17
+920,Entrega,Resolvida,3,13
+921,Produto,Em análise,3,18
+922,Atendimento,Resolvida,1,5
+923,Produto,Em análise,4,30
+924,Atendimento,Aberta,5,24
+925,Produto,Em análise,5,24
+926,Atendimento,Aberta,2,27
+927,Produto,Resolvida,2,3
+928,Entrega,Resolvida,5,11
+929,Serviço,Aberta,5,13
+930,Produto,Resolvida,4,4
+931,Atendimento,Em análise,3,26
+932,Entrega,Aberta,2,27
+933,Produto,Resolvida,3,14
+934,Produto,Aberta,4,22
+935,Entrega,Em análise,5,11
+936,Produto,Em análise,3,27
+937,Serviço,Resolvida,5,10
+938,Produto,Em análise,5,19
+939,Serviço,Aberta,1,18
+940,Serviço,Em análise,3,6
+941,Entrega,Aberta,3,27
+942,Produto,Aberta,5,29
+943,Entrega,Em análise,4,15
+944,Produto,Resolvida,1,21
+945,Produto,Em análise,5,30
+946,Atendimento,Aberta,2,10
+947,Produto,Aberta,2,5
+948,Entrega,Em análise,1,26
+949,Serviço,Resolvida,4,29
+950,Produto,Resolvida,5,5
+951,Atendimento,Aberta,3,10
+952,Entrega,Aberta,1,28
+953,Produto,Resolvida,4,5
+954,Entrega,Em análise,3,3
+955,Atendimento,Aberta,2,23
+956,Atendimento,Aberta,2,6
+957,Entrega,Resolvida,3,4
+958,Produto,Em análise,1,18
+959,Serviço,Resolvida,2,28
+960,Atendimento,Em análise,5,9
+961,Produto,Em análise,3,17
+962,Produto,Em análise,3,29
+963,Serviço,Aberta,2,13
+964,Atendimento,Resolvida,1,27
+965,Atendimento,Resolvida,5,15
+966,Produto,Em análise,1,30
+967,Produto,Aberta,4,20
+968,Serviço,Aberta,4,17
+969,Serviço,Resolvida,2,13
+970,Atendimento,Aberta,2,16
+971,Entrega,Aberta,2,22
+972,Atendimento,Em análise,4,4
+973,Produto,Aberta,1,5
+974,Atendimento,Em análise,1,5
+975,Entrega,Resolvida,2,9
+976,Serviço,Aberta,5,17
+977,Entrega,Resolvida,1,13
+978,Entrega,Resolvida,4,2
+979,Entrega,Aberta,3,13
+980,Serviço,Aberta,3,22
+981,Entrega,Resolvida,3,21
+982,Entrega,Aberta,5,27
+983,Entrega,Em análise,2,23
+984,Produto,Em análise,4,19
+985,Entrega,Aberta,5,3
+986,Serviço,Resolvida,4,10
+987,Entrega,Aberta,4,2
+988,Entrega,Aberta,2,13
+989,Serviço,Resolvida,3,19
+990,Entrega,Resolvida,2,26
+991,Serviço,Em análise,5,17
+992,Entrega,Resolvida,5,21
+993,Serviço,Em análise,5,14
+994,Entrega,Resolvida,2,12
+995,Entrega,Aberta,4,21
+996,Produto,Em análise,4,12
+997,Produto,Em análise,1,11
+998,Entrega,Em análise,5,7
+999,Entrega,Aberta,4,4
+1000,Atendimento,Aberta,1,19
